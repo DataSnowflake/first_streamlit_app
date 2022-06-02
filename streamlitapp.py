@@ -1,5 +1,7 @@
 
 import streamlit
+streamlit.titke('my parents new heathly diner')
+
 streamlit.header('Breakfast Menu')
 streamlit.text('Omega 3 & Blueberry Oatmeal')
 streamlit.text('Kale, Spinach & Rocket Smoothie')
